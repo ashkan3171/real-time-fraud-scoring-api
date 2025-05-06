@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Jupyter
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
+.env
+.venv/
+
+# Packages
+*.whl
+*.tar.gz
+*.egg-info/
+
+# Docker
+*.zip
+*.tar
+*.log
+Dockerfile
+
+# Data
+data/

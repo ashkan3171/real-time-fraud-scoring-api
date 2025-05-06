@@ -1,0 +1,13 @@
+__pycache__/
+*.ipynb
+*.csv
+*.zip
+data/
+notebooks/
+.DS_Store
+.vscode/
+.venv/
+*.log
+*.tar.gz
+*.whl
+*.zip
